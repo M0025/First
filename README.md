@@ -1,4 +1,4 @@
 # First
-my first GitHub repository 
-I can just write c programmes
-just have my first step
+my first GitHub repository \n
+I can just write c programmes\n
+just have my first step\n
